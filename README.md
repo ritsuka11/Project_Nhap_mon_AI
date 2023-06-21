@@ -1,2 +1,2 @@
-# Project_Nhap_mon_AI
-Project môn nhập môn trí tuệ nhân tạo
+
+Build a map of Bui Thi Xuan ward and find the shortest path between 2 points
